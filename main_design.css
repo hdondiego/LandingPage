@@ -4,4 +4,32 @@
 
 .title {
     text-align: center;
+    margin: 5%;
+}
+
+body {
+    opacity: 1;
+    transition: 1.5s opacity;
+}
+
+body.fade {
+    opacity: 0;
+    transition: none;
+}
+
+.assignments {
+    text-align: center;
+}
+
+ul {
+    list-style-position: inside;
+    padding-right: 3%;
+}
+
+li {
+    margin: 2%;
+}
+
+.bottom {
+    margin: 5%;
 }
