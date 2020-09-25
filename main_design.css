@@ -9,7 +9,7 @@
 
 body {
     opacity: 1;
-    transition: 1.5s opacity;
+    transition: 1.8s opacity;
 }
 
 body.fade {
